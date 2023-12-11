@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chelseaslade
+- 👀 I’m interested in ... Coding, Art, & Wikipedia Doom Scrolling
+- 🌱 I’m currently learning ... Python, Software Dev. Basics
+- 📫 How to reach me ... chelseajslade@gmail.com
