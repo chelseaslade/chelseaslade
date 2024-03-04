@@ -4,6 +4,6 @@
 
 📚 Graduated in 2021 with a Bachelor of Science in Biochemistry from Memorial University of Newfoundland and Labrador.
 
-⭐️ Currently learning: Python, HTML & CSS.
+⭐️ Currently learning: Python, HTML, CSS, & Javascript.
 
 Thank you for stopping by! 
