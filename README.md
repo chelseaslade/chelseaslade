@@ -4,6 +4,6 @@
 
 📚 Graduated in 2021 with a Bachelor of Science in Biochemistry from Memorial University of Newfoundland and Labrador.
 
-⭐️ Currently: Learning Javascript and SQL. Practicing and developing skills in Python (Databases, GUI...) , HTML, and CSS. 
+⭐️ Currently: Learning Java! Refining skills in Python, Javascript & SQL.
 
 Thank you for stopping by! 
