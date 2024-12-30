@@ -4,6 +4,8 @@
 
 📚 Graduated in 2021 with a Bachelor of Science in Biochemistry from Memorial University of Newfoundland and Labrador.
 
-⭐️ Currently: Learning Java, ExpressJS & MongoDB! Refining skills in Python, Javascript & SQL.
+⭐️ Currently: Refining skills, developing practice projects (Project Management website with React & Express.js, Medical Clinic Management program in Java).
+
+⭐️ Main Interests: Java, Database management (Postgresql, MongoDB). 
 
 Thank you for stopping by! 
