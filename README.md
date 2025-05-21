@@ -1,11 +1,12 @@
 👋 Hi, I’m @chelseaslade, lover of STEM, art, and Wikipedia doom scrolling. 
 
-📚 Currently enrolled in Software Development at Keyin College with expected graduation date of April 2025.
+📚 Software Development graduate of Keyin College, April 2025.
 
-📚 Graduated in 2021 with a Bachelor of Science in Biochemistry from Memorial University of Newfoundland and Labrador.
+📚 Bachelor of Science in Biochemistry (Nutrition) graduate of Memorial University of Newfoundland and Labrador, April 2021.
 
-⭐️ Currently: Refining skills, developing personal projects (Project Management website with React & Express.js, Medical Clinic Management program in Java).
+⭐️ Currently: Refining skills, developing personal projects 
+* SIMple Life - Text Life Simulator in React & Spring Boot
 
-⭐️ Main Interests: Java, Database management (Postgresql, MySQL, MongoDB). 
+⭐️ Main Interests: Java, SQL Database management (Postgresql, MySQL), React. 
 
 Thank you for stopping by! 
