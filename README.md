@@ -6,6 +6,7 @@
 
 ⭐️ Currently: Refining skills, developing personal projects 
 * SIMple Life - Text Life Simulator in React & Spring Boot
+* Software Development Portfolio
 
 ⭐️ Main Interests: Java, SQL Database management (Postgresql, MySQL), React. 
 
